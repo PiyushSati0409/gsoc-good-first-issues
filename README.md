@@ -1,5 +1,7 @@
 The repo contains a filtered list of good first issues from previous year organizations for GSoC 2023 aspirants.
 
+https://goodfirstissues.com/
+https://goodfirstissue.dev/language/java
 
 ## Javascript/Typescript
 
